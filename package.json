@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-sever --mode development"
+  },
   "dependencies": {
     "rxjs": "^6.5.4",
     "ts-loader": "^6.2.2",
