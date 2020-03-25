@@ -1,3 +1,5 @@
+//  from https://github.com/designcourse/rxjs-starter-coursetro/blob/master/webpack.config.js
+
 const path = require('path');
 
 module.exports = {
